@@ -1,0 +1,35 @@
+# flyctl launch added from .gitignore
+lib
+vendor
+
+# flyctl launch added from .idea\.gitignore
+# Default ignored files
+.idea\shelf
+.idea\workspace.xml
+# Editor-based HTTP Client requests
+.idea\httpRequests
+
+# flyctl launch added from app\templates\theme4\plugins\bootstrap-material-datetimepicker\.gitignore
+# Created by .ignore support plugin (hsz.mobi)
+
+# flyctl launch added from vendor\linfo\linfo\.gitignore
+vendor\linfo\linfo\**\config.inc.php
+vendor\linfo\linfo\**\*.swo
+vendor\linfo\linfo\**\*.swp
+vendor\linfo\linfo\**\cache\*.json
+vendor\linfo\linfo\**\.DS_Store
+vendor\linfo\linfo\**\.sass-cache
+vendor\linfo\linfo\**\.idea
+vendor\linfo\linfo\**\node_modules
+vendor\linfo\linfo\**\*.sublime-workspace
+vendor\linfo\linfo\vendor
+vendor\linfo\linfo\**\yarn.lock
+vendor\linfo\linfo\**\.phpunit.result.cache
+
+# flyctl launch added from vendor\picqer\php-barcode-generator\.gitignore
+vendor\picqer\php-barcode-generator\**\vendor
+vendor\picqer\php-barcode-generator\**\composer.lock
+vendor\picqer\php-barcode-generator\**\composer.phar
+vendor\picqer\php-barcode-generator\**\.phpunit.result.cache
+vendor\picqer\php-barcode-generator\**\.DS_Store
+fly.toml
